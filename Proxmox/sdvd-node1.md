@@ -20,3 +20,6 @@
 > - 64GB Flashdrive (for OS)
 > - 1TB NVMe (VM Storage)
 > - 500GB NVMe (VM Storage)
+
+> Graphics
+> - NVIDIA Quadro P600
