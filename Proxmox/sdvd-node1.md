@@ -10,7 +10,9 @@
 
 > CPU - Intel i5-6500T
 >> 4 Cores
+
 >> 4 Threads
+
 >> 2.5 GHz Base Frequency
 
 > Memory
@@ -18,5 +20,7 @@
 
 > Storage
 >> 64GB Flashdrive (for OS)
+
 >> 1TB NVMe (VM Storage)
+
 >> 500GB NVMe (VM Storage)
