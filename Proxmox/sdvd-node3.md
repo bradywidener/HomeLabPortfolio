@@ -1,5 +1,4 @@
 # sdvd-node3
-***
 
 ### Specifications
 > Model
