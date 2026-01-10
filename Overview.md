@@ -1,6 +1,8 @@
 # Overview
 This page contains the overview of the hardware and software I use to support the various projects throughout the portfolio.
 ***
+![Homelab Diagram](/Resources/homelabdiagram.png)
+
 # Hardware
 
 ### sdvd-node1
