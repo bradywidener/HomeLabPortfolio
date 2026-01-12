@@ -28,3 +28,17 @@ At the moment, I have a 1TB SATA SSD as my main storage pool. This should be mor
 
 ![info page](/Resources/sdvd-nas%20info.png)
 ![storage page](/Resources/sdvd-nas%20storage.png)
+
+### Applications
+- FileBrowser : This allows me to have a web hosted file browser into my NAS storage. I have a cloudflare tunnel hosted on my Raspberry Pi and use this to host the webpage.
+- HomeAssistant : HomeAssistant is a smarthome open source software that allows for control of many different smart and IoT devices through a webpage.
+
+### Virtual Machine
+> sdvd-nasvm
+> - 4 Virtual CPUs
+> - 8 GB RAM
+> - 64 GB Storage
+> - Ubuntu Server
+
+This virtual machine runs a handful of more essential services in docker containers. These services are as follows.
+> - Pihole : DNS based adblocking service. 
