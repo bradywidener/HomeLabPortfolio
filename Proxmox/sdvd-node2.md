@@ -13,7 +13,7 @@
 > - 2.5 GHz Base Frequency
 
 > Memory
-> - 16GB (2x8GB SODDR4)
+> - 32GB (2x16GB SODDR4)
 
 > Storage
 > - 64GB Flashdrive (for OS)
