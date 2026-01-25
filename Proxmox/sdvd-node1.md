@@ -26,7 +26,5 @@
 
 ### Containers and VMs
 >sdvd-docker1
-> - Portainer - Docker web/gui management
-
->sdvd-docker2
-> - 
+> - Portainer: Docker web/gui management
+> - Rustdesk: Remote access management. This server acts as a relay so I can access my machines remotely from off prem.

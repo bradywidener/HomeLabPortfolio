@@ -9,7 +9,7 @@
 
 > CPU - Intel i5-6500T
 > - 4 Cores
-> -  4 Threads
+> - 4 Threads
 > - 2.5 GHz Base Frequency
 
 > Memory
@@ -42,3 +42,5 @@ At the moment, I have a 1TB SATA SSD as my main storage pool. This should be mor
 
 This virtual machine runs a handful of more essential services in docker containers. These services are as follows.
 > - Pihole : DNS based adblocking service. 
+> - Jellyfin : Open source media streaming platform
+> - Cloudflared : Cloudflare tunnel for accessing my resources of prem. This is meant to be a backup for my cloudflared tunnel running on my raspberry pi

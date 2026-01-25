@@ -22,3 +22,9 @@
 
 > Graphics
 > - NVIDIA Quadro P600
+
+### Containers and VMs
+> sdvd-ai
+> - This VM hosts my local LLM's I have running with Ollama. Currently I'm using two different versions of Qwent2.5. One with 3 billion paramaters, and one with 7 billion paramters. With my specs being lower for AI workloads, this is more of a 'show and tell' project, than something that is actually practical. 
+> sdvd-mcp
+> - This VM hosts my Open WebUI front end for my AI models. I also plan to use this VM to run various MCP servers for my LLMs.
